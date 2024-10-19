@@ -255,52 +255,73 @@ Respecto a las proceso de creación de software identifica un conjunto de herram
 
 **5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?**
 
-- - **Editores de texto:** 
+- - **Editores de texto:** Una forma facil y eficaz de escribir nuestro codigo.
 
-- **Compiladores:** 
+- **Compiladores:** Generan nuestros archivos ejecutables.
 
-- **Interpretes:** 
+- **Interpretes:** Ejecutan nuestro codigo linea a linea.
 
-- **Herramientas de documentacion:** 
+- **Herramientas de documentacion:** Una forma de comprender nuestro codigo.
 
-- **Depuradores:** 
+- **Depuradores:** Nos ayudan a detectar errores.
  
-- **Sistemas de gestion de versiones:** 
+- **Sistemas de gestion de versiones:** Nos ayudan a la hora de trabajar en equipo y una forma inteligente de revertir cambios. 
 
-- **Frameworks:** 
+- **Frameworks:** Proporcionan una estructura predefinida para ahorrarnos tiempo.
 
-- **Herramientas para pruebas y calidad de codigo:**
+- **Herramientas para pruebas y calidad de codigo:** Nos permite escribir un codigo sin malas practica y sin errores.
 
 **5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?**
 
-- 
+- **Git:** Es una herramienta de control de versiones la cual es de mucha utilidad nos permite acceder a nuestro trabajo a traves de un repositorio siempre que tengamos una conexion a internet, tambien nos permite con facilidad trabajar en grupo de personas desarrollando sobre el mismo codigo.
+- Al principio puede ser un poco confuso ya que hay que manejarse por terminal pero con el tiempo te das cuenta que son siempre los mismo comandos y por tanto se hace facil usarlo.
 
 **5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?**
 
-- 
+- **Git:** Como mencione antes una de las mejores cosas que encontramos al usar git es la capacidad de trabajo en grupo de tal forma que podemos trabajar sin poner el riesgo el trabajo de otras personas y no da la posibilidad que en caso de error podamos revertir cambios.
 
 **5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?**
 
-- 
+- **Git:** Personalmente no encontre ninguna limitacion pero realizando una busqueda en internet muchos usuarios de git se quejan del tamaño de los archivos que pueden subir que esta limitado a 50mb.
 
 ## 5.2. Segunda parte
 Céntrate en una herramienta dentro de la misma categoría y compárala con otras:
 
 **5.2.1. ¿Qué herramienta se considera más útil y por qué?**
 
+- **Git vs Apache Subversion:** Git me parece mas util porque tiene una estructura descentralizada lo que nos permite trabajar desde local sin la necesidad de una conexion a un servidor ademas de que tiene un mejor manejo de ramas y fusiones.
+
 **5.2.2. ¿Qué ventajas tiene una sobre la otra?**
+
+- **Git vs Apache Subversion:** Git tiene una mayor flexibilidad en general, tienen mejor rendimiento a la hora de trabajar con ramas y trabajo distribuido mientras que Apache Subversion es mejor si se quiere trabajar de forma centralizada.
 
 **5.2.3. ¿Cuál herramienta resultó ser la más intuitiva y por qué?**
 
+- **Git vs Apache Subversion:** Desde mi punto de vista lo mas intuitivo es Git pero puede ser en funcion de lo que busques a la hora de trabajar ya que Git puede ser mas intuitivos para las personas que esten acostumbradas a trabajar en un entorno mas descentralizado mientras que Subversion para las personas que esten mas acostumbrados a trabajar de forma mas centralizada y con un mayor control.
+
 **5.2.4. ¿En qué casos se recomendaría usar un compilador en lugar de un intérprete?**
 
+- **Compilador:** Un compilador se usa cuando es necesario generar un archivo ejecutable, se suelen usar cuando se necesitan generar programas con un alto rendimiento para que aprovechen los recursos del hardware al maximo.
+
+- **Interprete:** Un interprete se usa cuando se necesita un desarrollo rapido, pruebas y scripts pequeños debido a que se ejecuta linea por linea sin necesidad de generar un archivo ejecutable.
+
 **5.2.5. ¿Qué tipo de proyectos se beneficiarían más de un framework como Django?**
+
+- Django nos ofrece estructuras para validaciones, bases de datos, autenticacion entre otros... por lo tanto podria ser muy util en redes sociales o tiendas online por ejemplo ya que necesitan uso de base de datos y autenticacion, de esta forma usando Django nos facilitarian este tipo de estructuras y por tanto ahorrariamos tiempo.
 
 ## 5.3. Reflexión final
 Con base en la experiencia de evaluación de las herramientas:
 
 **5.3.1. ¿Cómo crees que impacta la elección de la herramienta en la calidad del software?**
 
+- Desde el punto de vista de un desarrollador de software una buena herramienta puede ayudar en mejorar la calidad del software en varios aspectos como mayor velocidad en el desarrollo, colaboracion en grupo y ayuda en prevencion y deteccion de errores lo que como resultado da un software de una calidad superior.
+
 **5.3.2. ¿Qué características buscarías en una herramienta para facilitar tu flujo de trabajo?**
 
+- En una herramienta buscaria caracteristicas como manejo eficiente de control de versiones, compatibilidad, flexibilidad, una buena documentacion, soporte tecnico de calidad, soporte para pruebas como caracteristicas principales.
+
 **5.3.3. ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?**
+
+- **(Git y Subversion)** En mi caso probe Git y para Subversion me informe bastante, Git tiene una gran flexibilidad y nos permite trabajar de manera distribuida que es una de las cosas que mas me gustan de Git que podemos tener el proyecto en local y trabajar sobre el sin la necesidad de conexion y subir los cambios mas tardes, en el pasado tmabien trabaje en equipo usando Git y fue una buena experiencia ya que es una herramienta bastante intuitiva a la hora de trabajar con varias ramas y usuarios. Subversion no me parece que sea una mala herramienta pero tiene sus limitaciones sobre todo porque trabaja de forma centralizada y es necesaria una conexion de tal forma me parece que  no es lo mejor cuando trabajas en grandes proyectos.
+
+- En conclusion ambas son buenas herramientas de control de version cada una aporta unas ventajas y desventajas pero a la hora de elegirla para trabajar en un proyecto dependera de las necesidades del proyecto.
